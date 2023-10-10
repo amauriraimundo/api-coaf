@@ -1,0 +1,2 @@
+[build]
+  command = "npm start" # Ou o comando que inicia seu aplicativo Node.js
